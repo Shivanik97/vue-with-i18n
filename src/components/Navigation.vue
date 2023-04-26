@@ -23,11 +23,6 @@
   <LanguageSwitcher />
 </template>
 
-<script>
+<script setup>
 import LanguageSwitcher from './LanguageSwitcher.vue';
-export default {
-  components: {
-    LanguageSwitcher
-  }
-}
 </script>
