@@ -13,7 +13,7 @@
         "donations": "Пожертвований собрано: {donations}"
     },
     "locale": {
-        "en": "Английский",
-        "ru": "Русский"
+        "en": "English",
+        "ru": "Russian (Русский)"
     }
 }
