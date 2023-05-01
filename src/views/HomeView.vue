@@ -4,7 +4,7 @@
       <div class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
         <h1>{{ $t("home.header") }}</h1>
         <p>{{ $t("home.created_by", { company: "Ariqt" }) }}</p>
-        <p>{{ $t("home.num_visits", 30) }}</p>
+        <p>{{ $t("home.num_visits", 2) }}</p>
         <p>{{ $d(new Date(), "longFormat") }}</p>
       </div>
     </div>
